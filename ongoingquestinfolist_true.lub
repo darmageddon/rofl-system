@@ -32834,5 +32834,73 @@ QuestInfoList = {
       "Hunt 50 Cloned Green Crystal"
     },
     Summary = "Hunt Mission"
+  },
+  [292444] = {
+    Title = "Daily Quest Rudus Lab 1 - Cooldown",
+    IconName = "ico_ev.bmp",
+    Description = {
+      "Quest ini sedang cooldown, kembali lagi esok hari."
+    },
+    Summary = "Reset pukul 04.00"
+  },
+  [292445] = {
+    Title = "Daily Quest Rudus Lab 2 - Cooldown",
+    IconName = "ico_ev.bmp",
+    Description = {
+      "Quest ini sedang cooldown, kembali lagi esok hari."
+    },
+    Summary = "Reset pukul 04.00"
+  },
+  [292446] = {
+    Title = "Daily Quest Rudus Lab 3 - Cooldown",
+    IconName = "ico_ev.bmp",
+    Description = {
+      "Quest ini sedang cooldown, kembali lagi esok hari."
+    },
+    Summary = "Reset pukul 04.00"
+  },
+  [292447] = {
+    Title = "Daily Quest Rudus Lab 4 - Cooldown",
+    IconName = "ico_ev.bmp",
+    Description = {
+      "Quest ini sedang cooldown, kembali lagi esok hari."
+    },
+    Summary = "Reset pukul 04.00"
+  },
+  [292448] = {
+    Title = "Daily Quest Rudus Lab 1 - Hunting Monster",
+    Description = {
+      "Hunt 50 Heart Hunter Velare",
+      "Hunt 50 Heart Hunter Sanare",
+      "Hunt 40 Mutant Plaga"
+    },
+    Summary = "Hunt Mission"
+  },
+  [292449] = {
+    Title = "Daily Quest Rudus Lab 2 - Hunting Monster",
+    Description = {
+      "Hunt 50 Plaga (Red)",
+      "Hunt 40 Mutant Hunter Bellare",
+      "Hunt 40 Mutant Hunter Sanare"
+    },
+    Summary = "Hunt Mission"
+  },
+  [292450] = {
+    Title = "Daily Quest Rudus Lab 3 - Hunting Monster",
+    Description = {
+      "Hunt 40 Mutant Venenum",
+      "Hunt 40 Mutant Dolor",
+      "Hunt 40 Mutant Twin Caput"
+    },
+    Summary = "Hunt Mission"
+  },
+  [292451] = {
+    Title = "Daily Quest Rudus Lab 4 - Hunting Monster",
+    Description = {
+      "Hunt 50 Venenum",
+      "Hunt 50 Dolor",
+      "Hunt 50 Twin Caput"
+    },
+    Summary = "Hunt Mission"
   }
 }
