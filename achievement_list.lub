@@ -4386,6 +4386,22 @@ achievement_tbl = {
     },
     reward = {title = 2037},
     score = 50
+  },
+  [310037] = {
+    UI_Type = 0,
+    group = "GOAL_ACHIEVE",
+    major = 6,
+    minor = 0,
+    title = "RO SUPREME",
+    content = {
+      summary = "Didapatkan dengan membeli Supreme Package!",
+      details = "Title yang didapatkan dari Supreme Package."
+    },
+    resource = {
+      [1] = {text = "WONDERLAND"}
+    },
+    reward = {title = 2038},
+    score = 50
   }
 }
 function main()
